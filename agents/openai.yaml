@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian 知识库管理"
+  short_description: "按固定中文规则维护可追溯的 Obsidian 知识库。"
+  default_prompt: "按既定中文规则接收、整理、归档并检索 Obsidian 知识库内容。"
